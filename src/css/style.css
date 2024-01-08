@@ -1,0 +1,20 @@
+@import './bootstrap-icons.min.css';
+@import './swiper-bundle.min.css';
+*{
+    outline: none;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 100%;
+}
+.fs-large{
+    font-size: 60px;
+}
+:root{
+    --primary: #900;
+    --enable-shadows: true;
+    --prefix: "mo-";
+}
